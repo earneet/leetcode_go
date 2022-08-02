@@ -1,4 +1,4 @@
-package leetcode
+package Problem_701_800
 
 func pivotIndex(nums []int) int {
 	size := len(nums)

@@ -1,4 +1,4 @@
-package leetcode
+package Problem_1401_1500
 
 func runningSum(nums []int) []int {
 	size := len(nums)
