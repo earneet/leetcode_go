@@ -2,7 +2,7 @@ package Problem_201_300
 
 import . "LeetCode_Go/DataStructure"
 
-func traceNode(node, target *TreeNode, stack *([]*TreeNode)) bool {
+func traceNode(node, target *TreeNode, stack *[]*TreeNode) bool {
 	if node == nil {
 		return false
 	}
